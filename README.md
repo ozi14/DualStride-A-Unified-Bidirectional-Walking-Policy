@@ -1,6 +1,6 @@
 # DualStride: A Unified Bidirectional Walking Policy for the Unitree G1 Humanoid
 
-**Authors:** Enis Özden, Taha Oğuzhan Uçar  
+**Authors:** Taha Oğuzhan Uçar, Enis Özden  
 **Institution:** Department of Computer Science, Binghamton University  
 **Course:** Intelligent Mobile Robotics, Spring 2025  
 **Advisor:** Prof. Shiqi Zhang
